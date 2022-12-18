@@ -1,0 +1,16 @@
+#id_button {
+    background-color: rgb(237, 45, 45);
+    padding: 4px 12px;
+    border-radius: 8px;
+    color: white;
+    margin-right: 30px;
+    height: 35px;
+    /* margin-left: 5px; */
+    display: flex;
+    align-items: center;
+    margin-top: 7px;
+}
+
+#id_button:hover{
+    background: red;
+}
